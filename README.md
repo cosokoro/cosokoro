@@ -1,8 +1,6 @@
 - 👋 Hi, I'm Cosmas Okoro
 - 👀 I'm interested in python programing, ML and DL for drug discovery
-- 🌱 I’m currently learning de Novo drug design to find novel molecules for specific targets.
-
-- 💞️ I’m looking to collaborate on AI-driven drug discovery and a step by step protocol for Alphafold....
+- 🌱 I’m currently learning de Novo drug design (VAE, GAN) to find novel molecules for specific targets.
 - 📫 I can be reached via cokoro@tnstate.edu
 
 <!---
